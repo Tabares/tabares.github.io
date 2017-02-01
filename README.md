@@ -2,7 +2,7 @@
 
 
 
-Creating the wepack config....
+Creating the wepack config.......
 
 ```sh
 $ npm i webpack -S
